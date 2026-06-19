@@ -1,5 +1,4 @@
 import React from 'react'
-
 function Sidebar({result}) {
 
     if(!result ||
